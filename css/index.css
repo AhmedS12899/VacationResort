@@ -1,0 +1,17 @@
+#carousel img{
+    height: 60vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.ranchHeading{
+    font-size: 1.2rem;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.ranchDescription{
+    font-size: 1rem;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: 500;
+}
